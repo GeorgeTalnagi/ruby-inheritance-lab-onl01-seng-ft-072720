@@ -8,11 +8,11 @@ class Student < User
   end 
   
   def learn 
-   @knowledge << :KNOWLEDGE
+    
   end 
   
   def knowledge
-    @knowledge.student
+   
   end 
   
   
